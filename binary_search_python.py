@@ -1,4 +1,5 @@
-"""binary searching algorithm for sorted array"""
+"""binary searching algorithm for sorted array
+    Big O notation - O(lon n)"""
 
 def binary_search(array, left, right, X):
 

@@ -1,6 +1,6 @@
-"""sorting algorithm based on recursion
-    and divide and conquer principle
-    Big O notation - O(nlog n)"""
+"""sorting algorithm based on recursion and divide and conquer principle
+    Big O notation - O(nlog n). Worse case if array alread sorted O(n2)"""
+
 import random
 
 def qsort(array):
